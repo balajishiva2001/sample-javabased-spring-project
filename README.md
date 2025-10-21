@@ -26,26 +26,31 @@ A simple Java Spring project demonstrating core Spring Framework features using 
 1️⃣ **Clone the Repository**
 
 Open your terminal or Git Bash and run:
-
+```bash
 git clone https://github.com/balajishiva2001/sample-javabased-spring-project.git  
 cd sample-javabased-spring-project
+```
 
+---
 2️⃣ **Build the Project**
 
 Use Maven to build the project:
-
+```bash
 mvn clean install
+```
 
+---
 3️⃣ **Run the Application**
 
 Execute the application using:
-
+```bash
 mvn exec:java
+```
 
 ---
 
 ## 📂 Project Structure
-
+```
 sample-javabased-spring-project/  
 ├── src/  
 │   └── main/  
@@ -59,6 +64,7 @@ sample-javabased-spring-project/
 │       │               └── GreetingService.java  
 ├── pom.xml  
 └── README.md  
+```
 
 ---
 
